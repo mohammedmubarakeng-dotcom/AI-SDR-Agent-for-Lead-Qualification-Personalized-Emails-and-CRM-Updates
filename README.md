@@ -21,7 +21,7 @@
 
 | Overview | Lead Detail | Run Pipeline |
 |:---:|:---:|:---:|
-| ![Overview](docs/images/overview.png) | ![Lead Detail](docs/images/lead_detail.png) | ![Run Pipeline](docs/images/run_pipeline.png) |
+| ![Overview]| ![Lead Detail] | ![Run Pipeline]|
 
 *The Gradio dashboard includes: Overview stats, Lead Detail viewer, Pipeline runner, All Leads table, Activity Log, and About sections.*
 
