@@ -1,0 +1,8 @@
+openai-agents>=0.0.7
+groq
+python-dotenv
+sendgrid
+pandas
+gradio
+httpx
+aiosqlite
