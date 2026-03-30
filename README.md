@@ -22,8 +22,6 @@ Built using an **agentic workflow** (multi-agent collaboration + tools) inspired
 ### All Leads
 ![All Leads](dashboard-images/All_Leads.png)
 
-### Activity Log
-![Activity Log](dashboard-images/activity_log.png)
 
 ### About
 ![About](dashboard-images/About.png)
