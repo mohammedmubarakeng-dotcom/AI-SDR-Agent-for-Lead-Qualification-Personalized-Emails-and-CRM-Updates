@@ -20,8 +20,6 @@
 ## 📸 Dashboard Preview
 
 | Overview | Lead Detail | Run Pipeline |
-|:---:|:---:|:---:|
-| ![Overview]| ![Lead Detail] | ![Run Pipeline]|
 
 *The Gradio dashboard includes: Overview stats, Lead Detail viewer, Pipeline runner, All Leads table, Activity Log, and About sections.*
 
